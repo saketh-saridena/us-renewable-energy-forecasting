@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="t d">
+  <title id="t">US Renewable Energy</title>
+  <desc id="d">57 years of US solar, wind and hydro, explored, clustered and modeled.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1b33"/><stop offset="1" stop-color="#16367a"/></linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="28" fill="url(#bg)"/>
+  <g transform="translate(96 88)"><circle cx="72" cy="72" r="72" fill="#ffffff" fill-opacity=".08"/><path d="M80 26 44 82h26l-8 38 38-58H74z" fill="#fff"/></g>
+  <text x="300" y="158" fill="#ffffff" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1">US Renewable Energy</text>
+  <text x="302" y="208" fill="#c7d6ee" font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif" font-size="25">57 years of US solar, wind and hydro, explored, clustered and modeled.</text>
+  <g transform="translate(1078 232) scale(.55)" opacity=".9"><path d="M0 100C40 96 70 86 100 62S150 18 180 6" fill="none" stroke="#7cc4ff" stroke-width="7" stroke-linecap="round"/><path d="M120 46 180 6" stroke="#7cc4ff" stroke-width="7" stroke-dasharray="4 12" stroke-linecap="round" opacity=".5"/></g>
+</svg>
